@@ -1,0 +1,30 @@
+table{
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+button{
+    background: orange;
+    padding: 10px;
+    border: transparent;
+    margin: 10px;
+    width: 100px;
+    color: white;
+    font-weight: 900;
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+}
+
+
+
+hr{
+    width: 100%;
+}

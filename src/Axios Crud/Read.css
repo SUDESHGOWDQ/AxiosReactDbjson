@@ -1,0 +1,22 @@
+.Read{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.divread{
+    height: auto;
+    width: 300px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+p{
+    margin: 10px;
+}
+
+h1{
+    margin: 10px;
+}

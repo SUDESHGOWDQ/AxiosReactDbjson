@@ -1,0 +1,25 @@
+.Create{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+
+form{
+    border: 1px solid black;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin: 10px;
+}
+
+form input{
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid red;
+    margin: 10px;
+    text-align: center;
+}
